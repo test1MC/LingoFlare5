@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="true" SourceSourceControlBound="true" SourceSourceControlProviderType="Microsoft Team Foundation Server" SourceSourceControlDatabase="http://support:8080/tfs/DefaultCollection" SourceSourceControlDatabaseRoot="$/Test/LingoProject16" SourceProjectGuid="4f681969-3546-40d2-b34a-00b8b3726f50" SourceControlDatabaseRoot="C:\Users\dspencer\Documents\My Translated Projects\LingoGit-60.liprjf" SourceControlDatabase="C:\Users\dspencer\Documents\My Translated Projects\LingoGit-60.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="1e996475-58dc-4b13-bc11-e952e2e00056">
+    <ProjectFile Source="Target/LingoProject16.flprj" Target="Target/LingoProject16.flprj" />
+    <TMConnection Connection="LingoLocal1.db" ReadOnly="false" Type="StandAlone" />
+    <TermConnection Connection="file:///C:/Users/dspencer/Documents/Lingo Termbases/LingoLocal.litdb3" ReadOnly="false" Type="StandAlone" />
+</LingoProject>
