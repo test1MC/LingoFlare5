@@ -3,8 +3,8 @@
     <translationMemory name="LingoLocal1" local="True" />
     <summary>
         <duplicates characters="30" words="6" segments="6" />
-        <translated characters="701" words="133" segments="53" />
-        <context_Match characters="155" words="31" segments="8" />
+        <translated characters="746" words="143" segments="54" />
+        <context_Match characters="110" words="21" segments="7" />
         <exact_Match characters="0" words="0" segments="0" />
         <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
         <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
@@ -123,8 +123,8 @@
     </file>
     <file location="Target\Content\Topic One4.htm" targetLanguage="es" sourceLanguage="en-us">
         <duplicates characters="0" words="0" segments="0" />
-        <translated characters="0" words="0" segments="0" />
-        <context_Match characters="54" words="0" segments="2" />
+        <translated characters="45" words="10" segments="1" />
+        <context_Match characters="9" words="1" segments="1" />
         <exact_Match characters="0" words="0" segments="0" />
         <fuzzy_High characters="0" words="0" segments="0" Min="95%" Max="99%" />
         <fuzzy_Med1 characters="0" words="0" segments="0" Min="85%" Max="94%" />
